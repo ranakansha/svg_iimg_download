@@ -48,7 +48,7 @@ new Vue({
         link = evt.target;
 
       link.target = "_blank";
-      link.download = "layout.dwg";
+      link.download = "layout.svg";
       link.href = url;
       // });
 
